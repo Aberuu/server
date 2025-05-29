@@ -9,24 +9,28 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-05-27 19:06:19 +0700",
       "minecraft:snowy_slopes": "2025-05-25 13:43:22 +0700",
-      "minecraft:beach": "2025-05-25 13:26:32 +0700",
-      "minecraft:dark_forest": "2025-05-29 11:22:16 +0700",
       "minecraft:forest": "2025-05-25 13:36:08 +0700",
       "minecraft:taiga": "2025-05-25 13:26:21 +0700",
       "minecraft:deep_ocean": "2025-05-29 11:40:57 +0700",
-      "minecraft:river": "2025-05-25 13:32:33 +0700",
-      "minecraft:stony_shore": "2025-05-25 15:25:13 +0700",
       "minecraft:lush_caves": "2025-05-29 11:30:39 +0700",
-      "minecraft:dripstone_caves": "2025-05-25 14:37:23 +0700",
-      "minecraft:frozen_peaks": "2025-05-25 13:45:07 +0700",
       "minecraft:deep_cold_ocean": "2025-05-29 14:21:46 +0700",
-      "minecraft:old_growth_birch_forest": "2025-05-25 13:32:37 +0700",
-      "minecraft:deep_dark": "2025-05-25 16:50:15 +0700",
       "minecraft:ocean": "2025-05-29 11:23:51 +0700",
-      "minecraft:grove": "2025-05-25 13:44:50 +0700",
-      "minecraft:meadow": "2025-05-25 13:43:10 +0700",
+      "minecraft:jungle": "2025-05-29 20:28:46 +0700",
       "minecraft:birch_forest": "2025-05-25 13:31:07 +0700",
       "minecraft:old_growth_spruce_taiga": "2025-05-29 11:34:30 +0700",
+      "minecraft:beach": "2025-05-25 13:26:32 +0700",
+      "minecraft:dark_forest": "2025-05-29 11:22:16 +0700",
+      "minecraft:sparse_jungle": "2025-05-29 20:27:52 +0700",
+      "minecraft:river": "2025-05-25 13:32:33 +0700",
+      "minecraft:lukewarm_ocean": "2025-05-29 20:27:01 +0700",
+      "minecraft:stony_shore": "2025-05-25 15:25:13 +0700",
+      "minecraft:dripstone_caves": "2025-05-25 14:37:23 +0700",
+      "minecraft:frozen_peaks": "2025-05-25 13:45:07 +0700",
+      "minecraft:old_growth_birch_forest": "2025-05-25 13:32:37 +0700",
+      "minecraft:deep_dark": "2025-05-25 16:50:15 +0700",
+      "minecraft:grove": "2025-05-25 13:44:50 +0700",
+      "minecraft:meadow": "2025-05-25 13:43:10 +0700",
+      "minecraft:savanna": "2025-05-29 20:27:13 +0700",
       "minecraft:plains": "2025-05-25 13:37:05 +0700",
       "minecraft:jagged_peaks": "2025-05-27 21:04:29 +0700"
     },
@@ -3791,12 +3795,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-29 19:02:22 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-05-29 18:48:05 +0700"
@@ -3815,21 +3813,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-29 19:02:22 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-05-29 18:48:05 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-05-29 19:01:57 +0700"
     },
     "done": true
   },
@@ -3842,6 +3828,204 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-05-29 18:48:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-29 19:01:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-29 19:02:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-29 19:02:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-29 20:28:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-29 20:28:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-29 20:28:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-29 20:29:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-29 20:29:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-29 20:30:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-29 20:30:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-29 20:40:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-29 20:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-05-29 20:47:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-29 22:46:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-29 22:46:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-29 22:57:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-29 22:57:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-29 22:57:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-29 23:27:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2025-05-29 23:27:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-29 23:27:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-29 23:41:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-29 23:42:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-29 23:42:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-30 00:10:28 +0700"
     },
     "done": true
   },
