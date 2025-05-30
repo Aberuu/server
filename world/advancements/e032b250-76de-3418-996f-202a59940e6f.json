@@ -383,7 +383,6 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-05-25 14:58:01 +0700",
-      "apple": "2025-05-25 17:41:15 +0700",
       "chicken": "2025-05-30 00:17:22 +0700",
       "bread": "2025-05-25 14:02:27 +0700",
       "glow_berries": "2025-05-25 17:27:56 +0700",
@@ -393,6 +392,9 @@
       "beef": "2025-05-25 13:48:55 +0700",
       "baked_potato": "2025-05-25 16:41:05 +0700",
       "porkchop": "2025-05-30 00:06:01 +0700",
+      "golden_carrot": "2025-05-30 11:30:15 +0700",
+      "apple": "2025-05-25 17:41:15 +0700",
+      "potato": "2025-05-30 13:09:20 +0700",
       "carrot": "2025-05-26 21:35:38 +0700"
     },
     "done": false
@@ -785,6 +787,7 @@
       "minecraft:zombie": "2025-05-25 14:12:49 +0700",
       "minecraft:creeper": "2025-05-25 14:35:23 +0700",
       "minecraft:zombie_villager": "2025-05-25 17:14:44 +0700",
+      "minecraft:slime": "2025-05-30 16:01:55 +0700",
       "minecraft:shulker": "2025-05-29 15:17:13 +0700"
     },
     "done": false
@@ -3149,15 +3152,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-30 00:04:17 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-30 00:14:13 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_wither_rose": "2025-05-30 00:04:17 +0700"
+      "beacon": "2025-05-30 12:09:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 16:01:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 16:01:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 16:01:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-30 16:08:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-30 16:57:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-30 17:28:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-30 17:28:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-30 17:28:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-30 17:30:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-30 17:30:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-30 17:30:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-30 17:30:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-30 17:30:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-30 17:32:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-30 17:32:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-30 17:33:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:16:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:16:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:16:16 +0700"
     },
     "done": true
   },
