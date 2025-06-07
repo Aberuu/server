@@ -1,137 +1,15 @@
-[18:19:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:19:50] [ServerMain/INFO]: Loaded 1370 recipes
-[18:19:50] [ServerMain/INFO]: Loaded 1481 advancements
-[18:19:50] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:19:50] [Server thread/INFO]: Loading properties
-[18:19:50] [Server thread/INFO]: Default game type: SURVIVAL
-[18:19:50] [Server thread/INFO]: Generating keypair
-[18:19:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:19:50] [Server thread/INFO]: Using default channel type
-[18:19:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:19:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:19:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:19:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:19:50] [Server thread/INFO]: Preparing level "world"
-[18:19:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:19:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:19:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:19:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:19:52] [Server thread/INFO]: Time elapsed: 1058 ms
-[18:19:52] [Server thread/INFO]: Done (1.389s)! For help, type "help"
-[18:20:02] [Server thread/INFO]: KunsCoro[/127.147.228.246:49790] logged in with entity id 6 at (375.2987984845987, 110.5, 1904.285203023465)
-[18:20:02] [Server thread/INFO]: KunsCoro joined the game
-[18:20:29] [Server thread/INFO]: Bimo[/127.137.217.173:49833] logged in with entity id 346 at (273.76816197454303, 102.0, 1818.2761405145166)
-[18:20:29] [Server thread/INFO]: Bimo joined the game
-[18:20:55] [Server thread/INFO]: AberuuWasHere[/127.0.0.1:49844] logged in with entity id 761 at (368.48597580038216, 109.0, 1896.6216014044517)
-[18:20:55] [Server thread/INFO]: AberuuWasHere joined the game
-[18:26:00] [Server thread/INFO]: Bimo lost connection: Timed out
-[18:26:00] [Server thread/INFO]: Bimo left the game
-[18:26:03] [Server thread/INFO]: KunsCoro lost connection: Timed out
-[18:26:03] [Server thread/INFO]: KunsCoro left the game
-[18:28:04] [Server thread/INFO]: Bimo[/127.137.217.173:49902] logged in with entity id 5535 at (317.6948441671373, 180.0, 1632.5098489707764)
-[18:28:04] [Server thread/INFO]: Bimo joined the game
-[18:28:22] [Server thread/INFO]: KunsCoro[/127.147.228.246:49904] logged in with entity id 6942 at (369.656742288922, 108.125, 1896.5845926963343)
-[18:28:22] [Server thread/INFO]: KunsCoro joined the game
-[18:32:40] [Server thread/INFO]: AberuuWasHere was doomed to fall
-[18:33:01] [Server thread/INFO]: [Not Secure] <Bimo> 133 926
-[18:33:32] [Server thread/WARN]: KunsCoro moved too quickly! -4.198450852985644,-1.8201346052957064,-17.356247275202122
-[18:33:41] [Server thread/WARN]: Bimo moved too quickly! 17.491507081743066,-1.6143284433693026,1.3476463026736383
-[18:33:41] [Server thread/WARN]: KunsCoro moved too quickly! -11.638035603755064,-2.1428365977288735,-14.761130567525242
-[18:37:23] [Server thread/WARN]: Bimo moved too quickly! 12.67451301675932,-0.8163270768331472,12.181189178826799
-[18:37:30] [Server thread/WARN]: Bimo moved too quickly! 5.289485040498619,-13.141806178641815,11.408376684936457
-[18:38:15] [Server thread/WARN]: KunsCoro moved too quickly! 8.414357036884638,2.22215461634228,-4.9467556360853
-[18:46:13] [Server thread/WARN]: KunsCoro moved wrongly!
-[18:47:51] [Server thread/INFO]: Bimo lost connection: Disconnected
-[18:47:51] [Server thread/INFO]: Bimo left the game
-[18:47:55] [Server thread/INFO]: Bimo[/127.137.217.173:50025] logged in with entity id 24569 at (268.5429973151922, 110.18931560462104, 1809.9509199060428)
-[18:47:55] [Server thread/INFO]: Bimo joined the game
-[19:01:18] [Server thread/WARN]: Bimo moved too quickly! 17.181145572682055,-5.573049717525734,3.1222564519525804
-[19:01:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=273, y=98, z=1748} ji{x=274, y=98, z=1748}
-[19:19:27] [Server thread/INFO]: KunsCoro lost connection: Timed out
-[19:19:27] [Server thread/INFO]: KunsCoro left the game
-[19:19:28] [Server thread/INFO]: Bimo lost connection: Timed out
-[19:19:28] [Server thread/INFO]: Bimo left the game
-[19:19:43] [Server thread/INFO]: Bimo[/127.137.217.173:50187] logged in with entity id 39740 at (292.2239839342972, 80.5, 1740.605215966945)
-[19:19:43] [Server thread/INFO]: Bimo joined the game
-[19:19:44] [Server thread/INFO]: KunsCoro[/127.147.228.246:50191] logged in with entity id 39912 at (358.62014584710676, 92.21129165427126, 1650.1309471189068)
-[19:19:44] [Server thread/INFO]: KunsCoro joined the game
-[19:25:29] [Server thread/INFO]: Bimo lost connection: Timed out
-[19:25:29] [Server thread/INFO]: Bimo left the game
-[19:25:30] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[19:25:30] [Server thread/INFO]: KunsCoro left the game
-[19:25:34] [Server thread/INFO]: KunsCoro[/127.147.228.246:50217] logged in with entity id 44113 at (265.9492041160664, 99.91191509055912, 1631.3100783519446)
-[19:25:34] [Server thread/INFO]: KunsCoro joined the game
-[19:25:37] [Server thread/INFO]: Bimo[/127.137.217.173:50219] logged in with entity id 44188 at (274.54840955869446, 97.00692159150152, 1800.699999988079)
-[19:25:37] [Server thread/INFO]: Bimo joined the game
-[19:26:32] [Server thread/INFO]: Villager coj['Villager'/25631, l='ServerLevel[Survival]', x=348.05, y=78.05, z=1632.30] died, message: 'Villager tried to swim in lava'
-[19:26:32] [Server thread/INFO]: Villager coj['Villager'/25632, l='ServerLevel[Survival]', x=347.99, y=78.05, z=1632.70] died, message: 'Villager tried to swim in lava'
-[19:26:32] [Server thread/INFO]: Villager coj['Villager'/26210, l='ServerLevel[Survival]', x=348.70, y=78.03, z=1632.30] died, message: 'Villager tried to swim in lava'
-[19:26:32] [Server thread/INFO]: Villager coj['Villager'/31079, l='ServerLevel[Survival]', x=348.70, y=78.04, z=1632.70] died, message: 'Villager tried to swim in lava'
-[19:26:33] [Server thread/INFO]: Villager coj['Villager'/25636, l='ServerLevel[Survival]', x=347.27, y=79.59, z=1632.70] died, message: 'Villager tried to swim in lava'
-[19:26:33] [Server thread/INFO]: Villager coj['Villager'/25635, l='ServerLevel[Survival]', x=347.70, y=79.59, z=1632.30] died, message: 'Villager tried to swim in lava'
-[19:26:40] [Server thread/INFO]: Villager coj['Villager'/25637, l='ServerLevel[Survival]', x=348.70, y=78.00, z=1632.30] died, message: 'Villager tried to swim in lava'
-[19:26:41] [Server thread/INFO]: Villager coj['Villager'/37116, l='ServerLevel[Survival]', x=348.17, y=78.03, z=1632.15] died, message: 'Villager tried to swim in lava'
-[19:26:43] [Server thread/INFO]: Villager coj['Villager'/25630, l='ServerLevel[Survival]', x=348.36, y=78.05, z=1632.60] died, message: 'Villager tried to swim in lava'
-[19:28:47] [Server thread/WARN]: KunsCoro moved too quickly! 5.868246367468146,3.672987824053621,16.492545784832373
-[19:37:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=345, y=85, z=1632} ji{x=345, y=86, z=1631}
-[19:37:56] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[19:37:56] [Server thread/INFO]: KunsCoro left the game
-[19:38:52] [Server thread/INFO]: KunsCoro[/127.147.228.246:50274] logged in with entity id 56487 at (344.779309444341, 87.0, 1631.3984301622268)
-[19:38:52] [Server thread/INFO]: KunsCoro joined the game
-[19:39:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=520, y=60, z=1921} ji{x=519, y=60, z=1922}
-[19:39:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=520, y=60, z=1921} ji{x=519, y=60, z=1922}
-[19:39:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=520, y=60, z=1921} ji{x=519, y=60, z=1922}
-[19:39:52] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[19:39:52] [Server thread/INFO]: KunsCoro left the game
-[19:41:55] [Server thread/INFO]: KunsCoro[/127.147.228.246:50288] logged in with entity id 59139 at (346.23750001192093, 87.0, 1633.6172757927557)
-[19:41:55] [Server thread/INFO]: KunsCoro joined the game
-[19:42:45] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[19:42:45] [Server thread/INFO]: KunsCoro left the game
-[19:44:00] [Server thread/INFO]: KunsCoro[/127.147.228.246:50296] logged in with entity id 61254 at (348.4291120826059, 87.0, 1631.386423623867)
-[19:44:00] [Server thread/INFO]: KunsCoro joined the game
-[19:59:13] [Server thread/WARN]: Bimo was kicked for floating too long!
-[19:59:13] [Server thread/INFO]: Bimo lost connection: Flying is not enabled on this server
-[19:59:13] [Server thread/INFO]: Bimo left the game
-[19:59:28] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[19:59:28] [Server thread/INFO]: KunsCoro left the game
-[20:03:26] [Server thread/INFO]: KunsCoro[/127.147.228.246:50466] logged in with entity id 71351 at (342.5, 73.0, 1727.5)
-[20:03:26] [Server thread/INFO]: KunsCoro joined the game
-[20:03:43] [Server thread/INFO]: Bimo[/127.137.217.173:50472] logged in with entity id 71612 at (211.05183700398615, 163.25220334025371, 1740.0349838301254)
-[20:03:43] [Server thread/INFO]: Bimo joined the game
-[20:07:28] [Server thread/INFO]: Villager coj['Fisherman'/25634, l='ServerLevel[Survival]', x=343.52, y=89.00, z=1646.51] died, message: 'Fisherman tried to swim in lava'
-[20:08:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=321, y=81, z=1621} ji{x=321, y=85, z=1618}
-[20:13:49] [Server thread/INFO]: Villager coj['Villager'/25633, l='ServerLevel[Survival]', x=314.82, y=88.00, z=1611.84] died, message: 'Villager was burned to a crisp while fighting AberuuWasHere'
-[20:23:03] [Server thread/WARN]: Bimo moved too quickly! 3.713225854255654,-17.08776456347691,-7.003557872865031
-[20:29:54] [Server thread/INFO]: Villager coj['Villager'/63330, l='ServerLevel[Survival]', x=345.70, y=87.05, z=1640.50] died, message: 'Villager tried to swim in lava'
-[20:36:18] [Server thread/INFO]: AberuuWasHere was blown up by Creeper
-[20:36:22] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[20:36:22] [Server thread/INFO]: KunsCoro left the game
-[20:37:01] [Server thread/INFO]: KunsCoro[/127.147.228.246:51136] logged in with entity id 86537 at (346.77554970024863, 94.0, 1625.6098373392747)
-[20:37:01] [Server thread/INFO]: KunsCoro joined the game
-[20:43:02] [Server thread/INFO]: Bimo lost connection: Disconnected
-[20:43:02] [Server thread/INFO]: Bimo left the game
-[20:43:07] [Server thread/INFO]: Bimo[/127.137.217.173:51245] logged in with entity id 89009 at (322.70995971703667, 84.5, 1640.2605909911267)
-[20:43:07] [Server thread/INFO]: Bimo joined the game
-[20:46:19] [Server thread/INFO]: Bimo was smashed by KunsCoro
-[20:50:17] [Server thread/INFO]: Bimo was slain by KunsCoro
-[20:50:26] [Server thread/WARN]: KunsCoro moved too quickly! -9.700307285521887,-2.5,0.22047032371892783
-[20:50:53] [Server thread/WARN]: KunsCoro moved too quickly! 10.143833859508106,-0.7522033402537289,-0.15709724796215596
-[20:55:10] [Server thread/INFO]: KunsCoro lost connection: Disconnected
-[20:55:10] [Server thread/INFO]: KunsCoro left the game
-[20:55:23] [Server thread/INFO]: Bimo lost connection: Disconnected
-[20:55:23] [Server thread/INFO]: Bimo left the game
-[20:55:26] [Server thread/INFO]: Bimo[/127.137.217.173:51506] logged in with entity id 95446 at (261.8727339180389, 148.91740855905468, 1717.1610721460975)
-[20:55:26] [Server thread/INFO]: Bimo joined the game
-[20:56:50] [Server thread/INFO]: Bimo lost connection: Disconnected
-[20:56:50] [Server thread/INFO]: Bimo left the game
-[20:57:16] [Server thread/INFO]: Stopping the server
-[20:57:16] [Server thread/INFO]: Stopping server
-[20:57:16] [Server thread/INFO]: Saving players
-[20:57:16] [Server thread/INFO]: Saving worlds
-[20:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:overworld
-[20:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:the_nether
-[20:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:the_end
-[20:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:25:04] [Server thread/INFO]: AberuuWasHere lost connection: Disconnected
+[00:25:04] [Server thread/INFO]: AberuuWasHere left the game
+[00:25:14] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:25:14] [Server thread/INFO]: Saved the game
+[00:25:18] [Server thread/INFO]: Stopping the server
+[00:25:18] [Server thread/INFO]: Stopping server
+[00:25:18] [Server thread/INFO]: Saving players
+[00:25:18] [Server thread/INFO]: Saving worlds
+[00:25:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:overworld
+[00:25:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:the_end
+[00:25:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival]'/minecraft:the_nether
+[00:25:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:25:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:25:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:25:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
